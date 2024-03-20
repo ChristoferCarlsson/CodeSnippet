@@ -1,7 +1,7 @@
 # CodeSnippet
 
 
-npm i
+npm install
 
 npx expo start
 
